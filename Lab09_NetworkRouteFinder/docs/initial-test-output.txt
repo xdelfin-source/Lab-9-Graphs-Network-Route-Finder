@@ -1,0 +1,44 @@
+﻿FAIL: testEmptyGraph
+      java.lang.UnsupportedOperationException: TODO: implement getVertexCount
+FAIL: testSingleVertexAndStartEqualsTarget
+      java.lang.UnsupportedOperationException: TODO: implement addVertex
+FAIL: testNullAndMissingInputs
+      java.lang.AssertionError: addVertex(null) should reject null
+      expected: IllegalArgumentException
+      actual:   UnsupportedOperationException: TODO: implement addVertex
+FAIL: testLabGraphRepresentation
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testBfsShortestPath
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testDfsPathAndNotShortest
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testDfsBacktracks
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testDisconnectedAndIsolated
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testStudentAuthoredUndirectedTreeIsNotACycle
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testUndirectedPathIsNotCycle
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testUndirectedCycle
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testSelfLoop
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testDirectedAcyclicBlackEdge
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testDirectedCycle
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testCycleInLaterComponent
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testDirectedEdgeNoReverse
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testDuplicateRelationsIdempotent
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testConflictingRelationsAtomic
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testTraversalImmutability
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+FAIL: testMixedGraphCoexistence
+      java.lang.UnsupportedOperationException: TODO: implement addEdge
+
+SUMMARY: 0 passed, 20 failed
